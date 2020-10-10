@@ -1,0 +1,16 @@
+{
+"companyName": "com.nullbyte001",
+"productName": "HUNO",
+"productVersion": "0.1",
+"dataUrl": "HUNO_Web_bugfix_20201010.data.unityweb",
+"wasmCodeUrl": "HUNO_Web_bugfix_20201010.wasm.code.unityweb",
+"wasmFrameworkUrl": "HUNO_Web_bugfix_20201010.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
